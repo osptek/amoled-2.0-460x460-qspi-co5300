@@ -17,7 +17,8 @@
 
 - [About](#about)
 - [Versions](#versions)
-- [AM200Q460460LK](#am200q460460lk)
+- [AM200Q460460LK (legacy)](#am200q460460lk-legacy)
+- [AM200Q460460FLS1](#am200q460460fls1)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
 
@@ -37,17 +38,28 @@ Repo id: `2.0-amoled-460x460-qspi-co5300`
 
 | Version | Image | Summary | Full docs |
 | ------- | ----- | ------- | --------- |
-| AM200Q460460LK | <img alt="AM200Q460460LK" src="./versions/AM200Q460460LK/images/product.png" width="120" /> | [Summary](#am200q460460lk) | [Full docs](./versions/AM200Q460460LK/) |
+| AM200Q460460LK (legacy) | <img alt="AM200Q460460LK" src="./versions/AM200Q460460LK/images/product.png" width="120" /> | [Summary](#am200q460460lk-legacy) | [Full docs](./versions/AM200Q460460LK/) |
+| AM200Q460460FLS1 | <img alt="AM200Q460460FLS1" src="./versions/AM200Q460460FLS1/images/product.png" width="120" /> | [Summary](#am200q460460fls1) | [Full docs](./versions/AM200Q460460FLS1/) |
 
 ---
 
-## AM200Q460460LK
+## AM200Q460460LK (legacy)
 
 <p align="center"><img alt="AM200Q460460LK" src="./versions/AM200Q460460LK/images/product.png" width="320" /></p>
 
 **Notes:** With touch (CST820).
 
 Full product page, datasheets, and examples: [versions/AM200Q460460LK/](./versions/AM200Q460460LK/)
+
+---
+
+## AM200Q460460FLS1
+
+<p align="center"><img alt="AM200Q460460FLS1" src="./versions/AM200Q460460FLS1/images/product.png" width="320" /></p>
+
+**Notes:** With touch (I2C; IC not named in the datasheet).
+
+Full product page, datasheets, and examples: [versions/AM200Q460460FLS1/](./versions/AM200Q460460FLS1/)
 
 ---
 

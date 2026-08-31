@@ -17,7 +17,8 @@
 
 - [说明](#说明)
 - [版本一览](#版本一览)
-- [AM200Q460460LK](#am200q460460lk)
+- [AM200Q460460LK（旧版）](#am200q460460lk旧版)
+- [AM200Q460460FLS1](#am200q460460fls1)
 - [购买链接](#购买链接)
 - [技术支持](#技术支持)
 
@@ -37,17 +38,28 @@
 
 | 版本 | 宣传图 | 简介 | 完整资料 |
 | ---- | ------ | ---- | -------- |
-| AM200Q460460LK | <img alt="AM200Q460460LK" src="./versions/AM200Q460460LK/images/product.png" width="120" /> | [简介](#am200q460460lk) | [完整资料](./versions/AM200Q460460LK/) |
+| AM200Q460460LK（旧版） | <img alt="AM200Q460460LK" src="./versions/AM200Q460460LK/images/product.png" width="120" /> | [简介](#am200q460460lk旧版) | [完整资料](./versions/AM200Q460460LK/) |
+| AM200Q460460FLS1 | <img alt="AM200Q460460FLS1" src="./versions/AM200Q460460FLS1/images/product.png" width="120" /> | [简介](#am200q460460fls1) | [完整资料](./versions/AM200Q460460FLS1/) |
 
 ---
 
-## AM200Q460460LK
+## AM200Q460460LK（旧版）
 
 <p align="center"><img alt="AM200Q460460LK" src="./versions/AM200Q460460LK/images/product.png" width="320" /></p>
 
 **说明：** 带触摸（CST820）。
 
 完整产品页、规格书与示例：[versions/AM200Q460460LK/](./versions/AM200Q460460LK/)
+
+---
+
+## AM200Q460460FLS1
+
+<p align="center"><img alt="AM200Q460460FLS1" src="./versions/AM200Q460460FLS1/images/product.png" width="320" /></p>
+
+**说明：** 带触摸（I2C；规格书未标明具体 IC）。
+
+完整产品页、规格书与示例：[versions/AM200Q460460FLS1/](./versions/AM200Q460460FLS1/)
 
 ---
 
