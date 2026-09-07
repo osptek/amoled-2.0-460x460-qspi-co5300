@@ -121,6 +121,8 @@ Flash the merged image below to verify display and touch without building ESP-ID
 | Touch IC datasheet (CST820) | [`docs/DS_CST_820_V1_2_e0543732ca.pdf`](./docs/DS_CST_820_V1_2_e0543732ca.pdf) |
 | Init sequence (text) | [`docs/code for AM200Q460460LK.txt`](./docs/code%20for%20AM200Q460460LK.txt) |
 | 2.0″ AMOLED adapter board (V2.0) | [`docs/PCB-2.0寸AMOLED屏转接板V2.0.pdf`](./docs/PCB-2.0%E5%AF%B8AMOLED%E5%B1%8F%E8%BD%AC%E6%8E%A5%E6%9D%BFV2.0.pdf) |
+| 2″ display adapter schematic (Altium) | [`docs/2寸屏幕转接板.SchDoc`](./docs/2%E5%AF%B8%E5%B1%8F%E5%B9%95%E8%BD%AC%E6%8E%A5%E6%9D%BF.SchDoc) |
+| 2″ display adapter PCB (Altium) | [`docs/2寸屏幕转接板.PcbDoc`](./docs/2%E5%AF%B8%E5%B1%8F%E5%B9%95%E8%BD%AC%E6%8E%A5%E6%9D%BF.PcbDoc) |
 | 3D model (STEP) | [`docs/AM_200_Q460460.step`](./docs/AM_200_Q460460.step) |
 | Prebuilt firmware (ESP32-S3 merged) | [`firmware/esp32s3-2.0-amoled-460x460-qspi-co5300-bringup.bin`](./firmware/esp32s3-2.0-amoled-460x460-qspi-co5300-bringup.bin) |
 

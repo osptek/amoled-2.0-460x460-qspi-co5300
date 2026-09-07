@@ -121,6 +121,8 @@ OSPTEK **2.0 寸 460×460 AMOLED** 是一款 **QSPI** 接口彩色显示模组�
 | 触摸 IC 数据手册（CST820） | [`docs/DS_CST_820_V1_2_e0543732ca.pdf`](./docs/DS_CST_820_V1_2_e0543732ca.pdf) |
 | 初始化序列（文本） | [`docs/code for AM200Q460460LK.txt`](./docs/code%20for%20AM200Q460460LK.txt) |
 | 2.0 寸 AMOLED 转接板（V2.0） | [`docs/PCB-2.0寸AMOLED屏转接板V2.0.pdf`](./docs/PCB-2.0%E5%AF%B8AMOLED%E5%B1%8F%E8%BD%AC%E6%8E%A5%E6%9D%BFV2.0.pdf) |
+| 2 寸屏幕转接板原理图（Altium） | [`docs/2寸屏幕转接板.SchDoc`](./docs/2%E5%AF%B8%E5%B1%8F%E5%B9%95%E8%BD%AC%E6%8E%A5%E6%9D%BF.SchDoc) |
+| 2 寸屏幕转接板 PCB（Altium） | [`docs/2寸屏幕转接板.PcbDoc`](./docs/2%E5%AF%B8%E5%B1%8F%E5%B9%95%E8%BD%AC%E6%8E%A5%E6%9D%BF.PcbDoc) |
 | 3D 模型（STEP） | [`docs/AM_200_Q460460.step`](./docs/AM_200_Q460460.step) |
 | 预编译固件（ESP32-S3 合并包） | [`firmware/esp32s3-2.0-amoled-460x460-qspi-co5300-bringup.bin`](./firmware/esp32s3-2.0-amoled-460x460-qspi-co5300-bringup.bin) |
 
