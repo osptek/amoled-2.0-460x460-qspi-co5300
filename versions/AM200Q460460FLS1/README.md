@@ -83,6 +83,7 @@ OSPTEK **2.0 寸 460×460 AMOLED** 是一款 **QSPI** 接口显示模组，驱�
 | 资料 | 链接 |
 | ---- | ---- |
 | 产品规格书 | [`docs/AM200Q460460FLS1.pdf`](./docs/AM200Q460460FLS1.pdf) |
+| 3D 图纸（AM200Q460460FLS1） | [`docs/AM200Q460460FLS1.dwg`](./docs/AM200Q460460FLS1.dwg) |
 | 2.0 寸 AMOLED 转接板（V2.0） | [`docs/PCB-2.0寸AMOLED屏转接板V2.0.pdf`](./docs/PCB-2.0%E5%AF%B8AMOLED%E5%B1%8F%E8%BD%AC%E6%8E%A5%E6%9D%BFV2.0.pdf) |
 | 2 寸屏幕转接板原理图（Altium） | [`docs/2寸屏幕转接板.SchDoc`](./docs/2%E5%AF%B8%E5%B1%8F%E5%B9%95%E8%BD%AC%E6%8E%A5%E6%9D%BF.SchDoc) |
 | 2 寸屏幕转接板 PCB（Altium） | [`docs/2寸屏幕转接板.PcbDoc`](./docs/2%E5%AF%B8%E5%B1%8F%E5%B9%95%E8%BD%AC%E6%8E%A5%E6%9D%BF.PcbDoc) |

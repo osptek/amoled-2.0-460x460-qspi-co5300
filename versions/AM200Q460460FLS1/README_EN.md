@@ -83,6 +83,7 @@ Current module version: **AM200Q460460FLS1**. Electrical and mechanical details 
 | Resource | Link |
 | ---- | ---- |
 | Product datasheet | [`docs/AM200Q460460FLS1.pdf`](./docs/AM200Q460460FLS1.pdf) |
+| 3D drawing (AM200Q460460FLS1) | [`docs/AM200Q460460FLS1.dwg`](./docs/AM200Q460460FLS1.dwg) |
 | 2.0″ AMOLED adapter board (V2.0) | [`docs/PCB-2.0寸AMOLED屏转接板V2.0.pdf`](./docs/PCB-2.0%E5%AF%B8AMOLED%E5%B1%8F%E8%BD%AC%E6%8E%A5%E6%9D%BFV2.0.pdf) |
 | 2″ display adapter schematic (Altium) | [`docs/2寸屏幕转接板.SchDoc`](./docs/2%E5%AF%B8%E5%B1%8F%E5%B9%95%E8%BD%AC%E6%8E%A5%E6%9D%BF.SchDoc) |
 | 2″ display adapter PCB (Altium) | [`docs/2寸屏幕转接板.PcbDoc`](./docs/2%E5%AF%B8%E5%B1%8F%E5%B9%95%E8%BD%AC%E6%8E%A5%E6%9D%BF.PcbDoc) |
