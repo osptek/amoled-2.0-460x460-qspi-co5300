@@ -32,7 +32,7 @@
 
 OSPTEK **2.0″ 460×460 AMOLED** is a **QSPI** color display module driven by **CO5300**, with capacitive touch (**CST820**). Suited to handheld devices, wearables, and compact HMI.
 
-Spec ID (repository name): `2.0-amoled-460x460-qspi-co5300`
+Spec ID (repository name): `amoled-2.0-460x460-qspi-co5300`
 
 Current module version: **AM200Q460460LK**. Electrical and mechanical details follow [`docs/AM_200_Q460460_LK_ed30462590.pdf`](./docs/AM_200_Q460460_LK_ed30462590.pdf).
 
@@ -77,7 +77,7 @@ Flash the merged image below to verify display and touch without building ESP-ID
 
 | File | Address | Notes |
 | ---- | ------- | ----- |
-| [`firmware/esp32s3-2.0-amoled-460x460-qspi-co5300-bringup.bin`](./firmware/esp32s3-2.0-amoled-460x460-qspi-co5300-bringup.bin) | `0x0` (merged) | Bringup for the S3 Demo board + this module |
+| [`firmware/esp32s3-amoled-2.0-460x460-qspi-co5300-bringup.bin`](./firmware/esp32s3-amoled-2.0-460x460-qspi-co5300-bringup.bin) | `0x0` (merged) | Bringup for the S3 Demo board + this module |
 
 > Flash the merged image at **`0x0`**, not `0x10000`.
 
@@ -99,7 +99,7 @@ Flash the merged image below to verify display and touch without building ESP-ID
 ## Repository layout
 
 ```text
-2.0-amoled-460x460-qspi-co5300/                                # repo root (nav: ../../README_EN.md)
+amoled-2.0-460x460-qspi-co5300/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── AM200Q460460LK/                                # full materials for this part number
         ├── README.md
@@ -124,7 +124,7 @@ Flash the merged image below to verify display and touch without building ESP-ID
 | 2″ display adapter schematic (Altium) | [`docs/2寸屏幕转接板.SchDoc`](./docs/2%E5%AF%B8%E5%B1%8F%E5%B9%95%E8%BD%AC%E6%8E%A5%E6%9D%BF.SchDoc) |
 | 2″ display adapter PCB (Altium) | [`docs/2寸屏幕转接板.PcbDoc`](./docs/2%E5%AF%B8%E5%B1%8F%E5%B9%95%E8%BD%AC%E6%8E%A5%E6%9D%BF.PcbDoc) |
 | 3D model (STEP) | [`docs/AM_200_Q460460.step`](./docs/AM_200_Q460460.step) |
-| Prebuilt firmware (ESP32-S3 merged) | [`firmware/esp32s3-2.0-amoled-460x460-qspi-co5300-bringup.bin`](./firmware/esp32s3-2.0-amoled-460x460-qspi-co5300-bringup.bin) |
+| Prebuilt firmware (ESP32-S3 merged) | [`firmware/esp32s3-amoled-2.0-460x460-qspi-co5300-bringup.bin`](./firmware/esp32s3-amoled-2.0-460x460-qspi-co5300-bringup.bin) |
 
 ### Samples
 

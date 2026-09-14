@@ -31,7 +31,7 @@
 
 OSPTEK **2.0″ 460×460 AMOLED** is a **QSPI** display module driven by **CO5300**. Suited to handheld terminals, wearables, and compact HMI.
 
-Spec ID (repository name): `2.0-amoled-460x460-qspi-co5300`
+Spec ID (repository name): `amoled-2.0-460x460-qspi-co5300`
 
 Current module version: **AM200Q460460FLS1**. Electrical and mechanical details follow [`docs/AM200Q460460FLS1.pdf`](./docs/AM200Q460460FLS1.pdf).
 
@@ -66,7 +66,7 @@ Current module version: **AM200Q460460FLS1**. Electrical and mechanical details 
 ## Repository layout
 
 ```text
-2.0-amoled-460x460-qspi-co5300/                                # repo root (nav: ../../README_EN.md)
+amoled-2.0-460x460-qspi-co5300/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── AM200Q460460FLS1/                                      # full materials for this part number
         ├── README.md
