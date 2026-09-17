@@ -6,6 +6,7 @@ panel: amoled
 resolution: 460x460
 interface: [qspi]
 shape: rect
+corner: rounded
 
 versions:
   - id: AM200Q460460FLS1
