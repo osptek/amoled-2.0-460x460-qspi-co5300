@@ -1,0 +1,18 @@
+id: amoled-2.0-460x460-qspi-co5300
+category: displays
+
+size: "2.0"
+panel: amoled
+resolution: 460x460
+interface: [qspi]
+shape: rect
+
+versions:
+  - id: AM200Q460460FLS1
+    driver: CO5300AF-16
+    touch: CST820
+    note: none
+  - id: AM200Q460460LK
+    driver: CO5300
+    touch: CST820
+    note: none
