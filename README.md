@@ -57,7 +57,7 @@
 
 <p align="center"><img alt="AM200Q460460FLS1" src="./versions/AM200Q460460FLS1/images/product.png" width="320" /></p>
 
-**说明：** 带触摸（I2C；规格书未标明具体 IC）。
+**说明：** 带触摸（CST820，I2C）。
 
 完整产品页、规格书与示例：[versions/AM200Q460460FLS1/](./versions/AM200Q460460FLS1/)
 

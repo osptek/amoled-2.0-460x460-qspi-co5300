@@ -44,7 +44,7 @@ Current module version: **AM200Q460460FLS1**. Electrical and mechanical details 
 | Resolution | 460×460 |
 | Interface | QSPI |
 | Driver IC | CO5300 (CO5300AF-16) |
-| Touch driver | Capacitive touch (I2C; datasheet does not name the IC) |
+| Touch driver | CST820 (I2C) |
 
 > Full outline, FPC definition, power, and timing follow the product datasheet / driver IC datasheet.
 

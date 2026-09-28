@@ -57,7 +57,7 @@ Full product page, datasheets, and examples: [versions/AM200Q460460LK/](./versio
 
 <p align="center"><img alt="AM200Q460460FLS1" src="./versions/AM200Q460460FLS1/images/product.png" width="320" /></p>
 
-**Notes:** With touch (I2C; IC not named in the datasheet).
+**Notes:** With touch (CST820, I2C).
 
 Full product page, datasheets, and examples: [versions/AM200Q460460FLS1/](./versions/AM200Q460460FLS1/)
 
